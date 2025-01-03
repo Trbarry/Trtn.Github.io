@@ -14,11 +14,11 @@ description: >- # utilisé pour les balises SEO et flux atomiques
   Un site dédié au pentesting, aux CTFs, et aux connaissances en cybersécurité.
 
 # Fill in the protocol & hostname for your site.
-url: "https://tr-barry.github.io/Trtn.Github.io" # URL de votre site sans le '/'
+url: "https://trbarry.github.io/Trtn.Github.io" # URL de votre site sans le '/'
 baseurl: "" # reste vide si le site est à la racine
 
 github:
-  username: Tr-barry # Remplacez par votre nom d'utilisateur GitHub
+  username: Trbarry # Remplacez par votre nom d'utilisateur GitHub
 
 twitter:
   username: TrtnPentesting # Remplacez par votre nom Twitter
